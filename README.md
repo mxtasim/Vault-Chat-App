@@ -1,7 +1,10 @@
+# Vault Chat App (React Version)
 
-# React Chatting App
+A real-time chatting application built using **React** and **Vite**, originally created as part of my graduation project. It features a clean UI, efficient development workflow, and Firebase for backend services.
 
-A real-time chatting application built with React, using Vite for fast development and HMR (Hot Module Replacement) support. Includes custom ESLint rules for consistent and clean code.
+> ⚠️ This project has been succeeded by a new, advanced version built with **React Native** and **Expo** to provide a much better experience across **mobile and web** platforms. Check it out here:  
+👉 [Advanced Vault Chat App (React Native + Expo)](https://github.com/mxtasim/Advanced-Vault-App)
+
 
 ---
 
@@ -42,17 +45,11 @@ npm run dev       # Start development server
 
 - Compression planned (some parts may already be partially integrated)
 - Some features are under development or planned for future updates
-
 ---
 
 ## 📸 Screenshots
 
-### Chat Interface Example 1
-
-![Chat Screenshot 1](src/sc1.png)
-
----
-
-### Chat Interface Example 2
-
-![Chat Screenshot 2](src/sc2.png)
+<div align="center">
+  <img src="src/sc1.png" alt="Chat Screenshot 1" width="45%" style="margin-right:10px;" />
+  <img src="src/sc2.png" alt="Chat Screenshot 2" width="45%" />
+</div>
